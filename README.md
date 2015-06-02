@@ -6,7 +6,7 @@ A.K.A
 USB WIFI TPLINK TL-WN727N
 
 Iniiiih penampakannyaaaah
-<img src="http://www.tp-link.com/resources/images/products/gallery/TL-WN727N-01.jpg" />
+<img src="http://www.tp-link.com/resources/images/products/gallery/TL-WN727N-01.jpg" style="text-align:left;"/>
 
 $ git clone https://github.com/stnmrshx/mediatek7601u-kern-319.git <br />
 $ cd mediatek7601u-kern-319<br />
